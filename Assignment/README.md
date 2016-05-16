@@ -1,7 +1,8 @@
-## Assignment: Exploratory Data Analysis
+## Assignment: Exploratory Data Analysis for Household Electric power consumption over 2 days
 
 ### Description:
-This assigment creates 4 graphics for the : Individual household electric power consumption Data Set from the UC Irvine Machine Learning Repository. See readme file from main ExData_Plotting1 repository.
+This assigment creates 4 graphics for the : Individual household electric power consumption Data Set from the UC Irvine Machine Learning Repository. 
+For additional details see readme file from main ExData_Plotting1 repository.
 
 
 ### Files listed on this assignment:
@@ -20,10 +21,10 @@ This assigment creates 4 graphics for the : Individual household electric power 
 
 ### How to generated all the graphs:
 
-- a.From Github download the R files Electric power comsuption fiel for the [Exploratory Data Analysis] (https://github.com/rbonifac/ExData_Plotting1/tree/master/Assignment)
+- a.From Github download the R files Electric power comsuption file for the [Exploratory Data Analysis] (https://github.com/rbonifac/ExData_Plotting1/tree/master/Assignment)
 - b.Copy the R files to a directory called Assignment.
-- b.Download raw data from source web link for [Raw Data] (https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip)
-- c.Create a folder called data and Extract compressed file into the "data" folder.
+- c.Download raw data from source web link for [Raw Data] (https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip)
+- d.Create a folder called data and Extract compressed file into the "data" folder.
 - e.Double click on the run_all.R file and will automatically opens in the R console. Type source('run_all.R') to execute the script.
 - f.Verify that the 4 png files have been created in the Assignment folder.
 
